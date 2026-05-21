@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "library-management-system",
+      "title": "Library Management System",
+      "description": "Build an object-oriented library system to manage books, patrons, and loans.",
+      "path": "assignments/library-management-system",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
